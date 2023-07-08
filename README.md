@@ -1,5 +1,5 @@
-# UNTV
-# Code for Underwater Normalized Total Variation (UNTV)
+# ICSP
+# Code for Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior (ICSP)
 
 1. This code is for the paper: 
 
