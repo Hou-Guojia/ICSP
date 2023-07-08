@@ -3,7 +3,7 @@
 
 1. This code is for the paper: 
 
-   Guojia Hou, Nan Li, Peixian Zhuang, Kunqian Li, Haihan Sun, Chongyi Li, "Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior", IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 6, pp. 3514-3526, 2022.
+   Guojia Hou, Nan Li, Peixian Zhuang, Kunqian Li, Haihan Sun, Chongyi Li, "Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior", IEEE Transactions on Circuits and Systems for Video Technology, pp. 1-1, 2023.
    
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
 
