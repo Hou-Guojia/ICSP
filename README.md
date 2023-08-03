@@ -1,4 +1,3 @@
-# ICSP
 # Code and dataset for "Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior"
 
 1. This code is for the paper: 
