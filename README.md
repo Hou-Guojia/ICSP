@@ -4,7 +4,7 @@
 
    Guojia Hou, Nan Li, Peixian Zhuang, Kunqian Li, Haihan Sun, Chongyi Li, "Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior", IEEE Transactions on Circuits and Systems for Video Technology, Early Access, 2023, doi: 10.1109/TCSVT.2023.3290363.
 
-   The NUID can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1GSd74Y-Fkb7uGJ1pViR7pw) （Password：nuid）and [Google Drive]([https://pan.baidu.com/s/1GSd74Y-Fkb7uGJ1pViR7pw](https://drive.google.com/file/d/1fSh7mEeV6T6d55VlPgpju_ePZoeUr3Lk/view?usp=drive_link))
+   The NUID can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1GSd74Y-Fkb7uGJ1pViR7pw)（Password：nuid）and [Google Drive]([https://pan.baidu.com/s/1GSd74Y-Fkb7uGJ1pViR7pw](https://drive.google.com/file/d/1fSh7mEeV6T6d55VlPgpju_ePZoeUr3Lk/view?usp=drive_link)
    
    The code and dataset can only be used for non-commercial purpose. If you use our code or dataset, please cite the paper.
 
