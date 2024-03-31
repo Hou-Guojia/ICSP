@@ -2,7 +2,7 @@
 
 1. This code is for the paper: 
 
-   Guojia Hou, Nan Li, Peixian Zhuang, Kunqian Li, Haihan Sun, Chongyi Li, "Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior", IEEE Transactions on Circuits and Systems for Video Technology, Early Access, 2023, doi: 10.1109/TCSVT.2023.3290363.
+   Guojia Hou, Nan Li, Peixian Zhuang, Kunqian Li, Haihan Sun, Chongyi Li, "Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior", IEEE Transactions on Circuits and Systems for Video Technology, 2024, 2 (34): 799-814.
 
    The NUID can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1GSd74Y-Fkb7uGJ1pViR7pw) (Password：nuid) and [Google Drive](https://drive.google.com/file/d/1fSh7mEeV6T6d55VlPgpju_ePZoeUr3Lk/view?usp=drive_link).
    
