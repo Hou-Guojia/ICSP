@@ -8,9 +8,9 @@
    
    The code and dataset can only be used for non-commercial purpose. If you use our code or dataset, please cite the paper.
 
-3. The code has been tested on Windows 10 64bit with MATLAB 2019b. 
+2. The code has been tested on Windows 10 64bit with MATLAB 2019b. 
 
-4. Usage:
+3. Usage:
 
    (1) Put the images into the 'images' folder.
 
